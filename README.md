@@ -29,12 +29,12 @@ Outputs were found to be as follows:
 initially - a DC offset (but later drifting back toward center).  This has the effect of the
 initial waveform's impulse being double what it should be, but the waveform peak-to-peak is not.
 
-![Hu6280 waveform](image/Hu6280.png)
+![Hu6280 waveform](images/Hu6280.png)
 
 
 ### Hu6280A: no "pop", no DC offset.
 
-![Hu628i0A waveform](image/Hu6280A.png)
+![Hu628i0A waveform](images/Hu6280A.png)
 
 
 Notes:
